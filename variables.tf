@@ -3,8 +3,8 @@ variable "region" {
 }
 
 /*====
-environment specific variables
-======*/
+environment specific variable
+====*/
 
 variable "production_database_name" {
   description = "The database name for Production"
